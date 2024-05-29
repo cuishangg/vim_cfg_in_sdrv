@@ -4,3 +4,5 @@
 - 包含了：cscope、ctags、ag
 
 2. .bashrc 中存放了快捷命令脚本和环境变量设置，其中包含了bin 的环境变量配置。
+
+3.  添加_vim.tar.gz from .vim/ ,因为.vim/pluged里面的提交不上去。
